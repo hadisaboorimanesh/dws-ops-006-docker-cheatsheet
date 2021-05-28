@@ -41,16 +41,3 @@ create image for My Project
  ```
  8 - CMD ./start
  ```
-
- 
-     
-
-
-
-***RUN***
-
-```
- 
- 1 - ansible-playbook -i inventory docker.yaml
-
-```
