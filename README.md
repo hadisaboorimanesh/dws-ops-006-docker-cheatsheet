@@ -14,7 +14,10 @@ for installing **docker** refer this [Link](https://docs.docker.com/engine/insta
  1 - From python:slim
 
 ```
-
+*** define workdir 
+```
+ 2 - WORKDIR /opt/app
+```
 
 
 ***RUN***
