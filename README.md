@@ -8,13 +8,13 @@ Install docker with ansible.
 
 for installing **docker** refer this [Link](https://docs.docker.com/engine/install/ubuntu/)
 
-*** From base  image ***
+***From base image***
 ```
  
  1 - From python:slim
 
 ```
-*** define workdir 
+***define workdir*** 
 ```
  2 - WORKDIR /opt/app
 ```
