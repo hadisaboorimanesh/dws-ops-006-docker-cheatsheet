@@ -8,8 +8,13 @@ Install docker with ansible.
 
 for installing **docker** refer this [Link](https://docs.docker.com/engine/install/ubuntu/)
 
-*** From***
-1- From python:slim
+*** From base  image ***
+```
+ 
+ 1 - From python:slim
+
+```
+
 
 
 ***RUN***
